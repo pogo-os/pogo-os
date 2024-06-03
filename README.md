@@ -1,4 +1,4 @@
-# Pogo OS Bot de Discord Multipropósitos
+## Pogo OS Bot de Discord Multipropósitos
 
 <img style="width:100%;height:auto" src="https://discord.c99.nl/widget/theme-1/814494780251045928.png" />
 
