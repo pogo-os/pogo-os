@@ -12,4 +12,10 @@
 
 <p>¿Estás listo para llevar tu servidor Discord al siguiente nivel? Únete a la comunidad de Pogo OS hoy y descubre por qué somos considerados el mejor bot disponible. ¡No te arrepentirás! </p>
 
+### Vota por Pogo OS en Top.GG
+
+[![Discord Bots](https://top.gg/api/widget/814494780251045928.svg)(https://top.gg/bot/814494780251045928)
+
+### Servidor de soporte
+
 <img style="width:100%;height:auto" src="https://discordapp.com/api/guilds/984103977589293096/embed.png?style=banner3" />
