@@ -14,7 +14,9 @@
 
 ### Vota por Pogo OS en Top.GG
 
-[![Discord Bots](https://top.gg/api/widget/814494780251045928.svg)(https://top.gg/bot/814494780251045928)
+<a href="https://top.gg/bot/814494780251045928">
+  <img src="https://top.gg/api/widget/814494780251045928.svg">
+</a>
 
 ### Servidor de soporte
 
