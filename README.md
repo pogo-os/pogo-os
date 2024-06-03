@@ -14,9 +14,11 @@
 
 ### Vota por Pogo OS en Top.GG
 
+<center>
 <a href="https://top.gg/bot/814494780251045928">
   <img src="https://top.gg/api/widget/814494780251045928.svg">
 </a>
+</center>
 
 ### Servidor de soporte
 
