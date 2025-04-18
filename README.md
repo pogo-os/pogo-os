@@ -1,4 +1,4 @@
-## Pogo OS Bot de Discord Multipropósitos
+## Pogo OS - Bot de Discord Multipropósitos
 
 <img style="width:100%;height:auto" src="https://discord.c99.nl/widget/theme-1/814494780251045928.png" />
 
@@ -12,13 +12,7 @@
 
 <p>¿Estás listo para llevar tu servidor Discord al siguiente nivel? Únete a la comunidad de Pogo OS hoy y descubre por qué somos considerados el mejor bot disponible. ¡No te arrepentirás! </p>
 
-### Vota por Pogo OS en Top.GG
-
-<center>
-<a href="https://top.gg/bot/814494780251045928">
-  <img src="https://top.gg/api/widget/814494780251045928.svg">
-</a>
-</center>
+### [Vota por Pogo OS en Top.GG](https://top.gg/bot/814494780251045928)
 
 ### Servidor de soporte
 
